@@ -1,6 +1,8 @@
 [ ![Download](https://api.bintray.com/packages/iammehedi/Maven/online.devliving%3Amobilevisionpipeline/images/download.svg) ](https://bintray.com/iammehedi/Maven/online.devliving%3Amobilevisionpipeline/_latestVersion)
 
-# AndroidVisionPipeline
+
+# AndroidMLKitPipeline
+## Work in progress. Adaptation from vision to ML Kit
 The bare bone pipeline infrastructure required for using google's android vision detectors. Most of the source codes were extracted from [Google's android vision sample](https://github.com/googlesamples/android-vision).
 
 ## Pre-Requisite
